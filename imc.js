@@ -1,5 +1,5 @@
-var	altura='1.68';
-var	peso='63';
+var	height='1.68';
+var	Weight='63';
 	
 		
-console.log(peso/Math.pow(altura,2));
+console.log(Weight/Math.pow(height,2));
